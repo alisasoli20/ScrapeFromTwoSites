@@ -1,3 +1,16 @@
 Prod_id,Prod_Brand,Prod_Name,Prod_Type,Gender,Category,Reg_Price,Disc_Price,Site_ID,Date,Image URL
 413073,Calvin Klein,Eternity,3.4 oz Eau De Toilette Spray,Men,Colonge,$31.91 ,$27.12 ,Fragnancex,9/13/2019,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
 547293,Calvin Klein,Eternity,3.3 oz Eau De Parfum Spray,Men,Colonge,$79.99 ,$67.99 ,Fragnancex,9/13/2019,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+413073,Calvin Klein,Eternity,3.4 oz Eau De Toilette Spray,Men,Colonge,$ 31.91,$ 27.12,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+547293,Calvin Klein,Eternity,3.3 oz Eau De Parfum Spray,Men,Colonge,$ 79.99,$ 67.99,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+424735,Calvin Klein,Eternity,6.7 oz Eau De Toilette Spray,Men,Colonge,$ 52.91,$ 44.97,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+435748,Calvin Klein,Eternity,3.4 oz Eau De Toilette Spray (Unboxed),Men,Colonge,$ 28.55,$ 24.27,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+462722,Calvin Klein,Eternity,3.4 oz Eau De Toilette Spray (Tester),Men,Colonge,$ 27.75,$ 23.59,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+413064,Calvin Klein,Eternity,1.7 oz Eau De Toilette Spray,Men,Colonge,$ 26.87,$ 22.84,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+413058,Calvin Klein,Eternity,1 oz Eau De Toilette Spray,Men,Colonge,$ 22.67,$ 19.27,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+532853,Calvin Klein,Eternity,5.4 oz Body Spray,Men,Colonge,$ 13.43,$ 11.42,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_e-am-pid_352m__products.html?sid=METERN
+402086,Davidoff,Cool Water,4.2 oz Eau De Toilette Spray,Men,Colonge,$ 24.35,$ 20.70,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_c-am-pid_127m__products.html?sid=MCOOLW
+459945,Davidoff,Cool Water,6.7 oz Eau De Toilette Spray,Men,Colonge,$ 32.14,$ 27.32,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_c-am-pid_127m__products.html?sid=MCOOLW
+445987,Davidoff,Cool Water,4.2 oz Eau De Toilette Spray (Tester),Men,Colonge,$ 23.49,$ 19.97,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_c-am-pid_127m__products.html?sid=MCOOLW
+402074,Davidoff,Cool Water,2.5 oz Eau De Toilette Spray,Men,Colonge,$ 21.83,$ 18.56,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_c-am-pid_127m__products.html?sid=MCOOLW
+402077,Davidoff,Cool Water,1.35 oz Eau De Toilette Spray,Men,Colonge,$ 18.47,$ 15.70,Fragnancex,2019-09-13,https://www.fragrancex.com/products/_cid_cologne-am-lid_c-am-pid_127m__products.html?sid=MCOOLW
